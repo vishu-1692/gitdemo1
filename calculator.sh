@@ -15,3 +15,6 @@ y=2-3
 z=5/2
 
 #percentage %
+#multipication
+
+a=3*4
