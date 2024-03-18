@@ -13,3 +13,5 @@ y=2-3
 #Devision
 
 z=5/2
+
+#percentage %
